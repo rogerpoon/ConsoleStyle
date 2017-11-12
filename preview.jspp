@@ -1,0 +1,12 @@
+import System;
+import Vendor.Onux.ConsoleStyle.Colors;
+
+Console.log(Colors.black("black"));
+Console.log(Colors.red("red"));
+Console.log(Colors.green("green"));
+Console.log(Colors.yellow("yellow"));
+Console.log(Colors.blue("blue"));
+Console.log(Colors.purple("purple"));
+Console.log(Colors.cyan("cyan"));
+Console.log(Colors.white("white"));
+Console.log(Colors.gray("gray"));
